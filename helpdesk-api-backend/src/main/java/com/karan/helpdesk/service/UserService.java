@@ -1,5 +1,9 @@
 package com.karan.helpdesk.service;
 
-public class UserService {
-    // TODO: Implement UserService
+import com.karan.helpdesk.entity.User;
+
+import java.util.List;
+
+public interface UserService {
+    List<User> getAllUsersForCurrentTenant();
 }
