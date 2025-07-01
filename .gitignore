@@ -92,3 +92,10 @@ Thumbs.db
 # Environment/config
 .env
 **/application-local.properties
+# Ignore folder
+Python Scripts/
+
+# Ignore files
+Great! Based on the detailed bluepr.txt
+Multi-Tenant Helpdesk Ticket Management System.txt
+helpdesk-api.zip
