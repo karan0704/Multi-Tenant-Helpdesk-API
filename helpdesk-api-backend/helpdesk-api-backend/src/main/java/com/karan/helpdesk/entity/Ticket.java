@@ -2,7 +2,6 @@ package com.karan.helpdesk.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-
 import java.time.LocalDateTime;
 import java.util.UUID;
 
